@@ -181,3 +181,4 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/.vs/QuickInject/v15/sqlite3
